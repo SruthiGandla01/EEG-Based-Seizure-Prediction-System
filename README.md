@@ -1,1 +1,1 @@
-# EEG-Model-Classification-Using-Deep-Learning
+# EEG Based Seizure Prediction System
