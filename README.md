@@ -15,14 +15,6 @@ Predicting epileptic seizures using EEG (Electroencephalogram) data is a critica
   - [3. Model Development](#3-model-development)
   - [4. Model Evaluation](#4-model-evaluation)
 - [Results](#-results)
-- [Visual Architecture](#-visual-architecture)
-- [Repository Structure](#-repository-structure)
-- [How to Run](#-how-to-run)
-- [Future Enhancements](#-future-enhancements)
-- [License](#-license)
-- [Contributors](#-contributors)
-- [Contact](#-contact)
-
 ---
 
 ## 🧠 Project Objective
