@@ -34,10 +34,7 @@ The goal of this project is to develop an automated system that analyzes EEG dat
 ## 🧾 EEG Overview
 
 Electroencephalography (EEG) is a method used to record electrical activity in the brain using sensors (electrodes) placed on the scalp. These readings are used to detect unusual brain activity that may precede epileptic seizures.
-
 ![EEG Brain Signals](https://github.com/user-attachments/assets/5121e10b-099f-4504-98f2-ddf54b4e612b)
-
-
 ---
 
 ## 📊 Dataset
@@ -58,9 +55,7 @@ We used the **Epileptic Seizure Recognition Dataset** from the UCI Machine Learn
 ## 🧩 Visual Architecture
 
 ### EEG-Based Seizure Prediction Pipeline
-
 ![system_architecture](https://github.com/user-attachments/assets/50e287bd-7c57-47eb-ba00-082ac0f1fab1)
-
 
 ### 1. Data Preprocessing
 - **Binary Conversion**: Converted the 5-class target into binary labels (seizure vs. non-seizure).
@@ -87,7 +82,6 @@ We trained the following models using the same training dataset:
 | Artificial Neural Network (ANN) | Deep learning with dense layers |
 
 ### ANN Model Architecture  
-
 ![ann_architecture](https://github.com/user-attachments/assets/43e936af-b9c1-4236-be91-82059bb93e22)
 
 ### 4. Model Evaluation
